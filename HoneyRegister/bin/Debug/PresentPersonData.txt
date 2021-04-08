@@ -1,0 +1,5 @@
+2018. 02. 21. 12:09:08;Napraforg�m�z;Mester;Krisztina;2;2400
+2018. 02. 08. 12:15:39;Vegyes-vir�gm�z;HOrváth;Aladár;3;3600
+2018. 03. 02. 8:11:26;Repcem�z;Gerlay;János;2;4000
+2018. 03. 08. 13:12:19;Akácméz;Mester;Mónika;2;4000
+2018. 03. 22. 11:48:01;Vegyes-virágméz;Andresik;István;2;2400
