@@ -32,7 +32,7 @@ namespace DataLoadAndSave
         public delegate void ErrorMessage(string ErrorText);
         public static event ErrorMessage ErrorMessageEvent;
 
-        private const string Database = "honeyprogramdatabase4Try";
+        private const string Database = "yourDatabaseName";
 
         private static List<Person> personData = new List<Person>();
         private static List<HoneyType> honeyTypes = new List<HoneyType>();
